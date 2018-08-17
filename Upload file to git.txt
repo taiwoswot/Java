@@ -1,0 +1,7 @@
+go to the git path
+git clone "URL"
+got to the new dir
+git status
+git add .
+git commit -m "First commit"
+git push
